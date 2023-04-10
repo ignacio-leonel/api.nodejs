@@ -1,0 +1,42 @@
+[ 
+    {
+        "nombre":"Gerardo",
+        "dni": 24911146,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "RioBamba",
+            "numero": 158,
+            "Localidad": "Jose C. Paz"
+        }
+    },
+    {
+        "nombre":"Florencia",
+        "dni": 245350368,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "La Rioja",
+            "numero": 2005,
+            "Localidad": "San Miguel"
+        }
+    },
+    {
+        "nombre":"Dolores",
+        "dni": 1111111,
+        "tieneCurso": false,
+        "domicilio": {
+            "calle": "Misiones",
+            "numero": 2058,
+            "Localidad": "San Miguel"
+        }
+    },  
+    {
+        "nombre":"Luis",
+        "dni": 49810143,
+        "tieneCurso": false,
+        "domicilio": {
+            "calle": "San Martie",
+            "numero": 2058,
+            "Localidad": "Jose C. Paz"
+        }
+    }       
+]

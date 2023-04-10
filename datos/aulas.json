@@ -1,0 +1,17 @@
+[
+    {
+        "id": 209,
+        "sede": "UNPAZ",
+        "esLaboratiro": true 
+    },
+    {
+        "id": 211,
+        "sede": "UNPAZ",
+        "esLaboratiro": true 
+    },    
+    {
+        "id": 109,
+        "sede": "UNPAZ",
+        "esLaboratiro": false 
+    }
+]
