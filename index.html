@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <script type="text/javascript" src="./src/controllers/alumnos.controller.js" async></script> 
+    <script type="text/javascript" src="./src/controllers/aulas.controller.js" async></script>
+</head>
+<body>
+    
+    <form>
+        <p>
+            <b>Calculadora Resta</b>
+            <br/><br/>
+        </p>
+        Numero1
+        <br/>
+        <input id="req.params.dni" type="number" />
+        
+        <input type="button" value="verificar" onclick="getAlumnoByDni()" /><br/>
+        <label id="resultado">re</label>
+
+    </form>
+    <div id="resultado">
+        <label id="resultado1"></label>
+    </div>
+    <script type="text/javascript"></script>
+ 
+</body>
+</html>
